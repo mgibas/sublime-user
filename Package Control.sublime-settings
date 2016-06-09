@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"AutoFileName",
+		"Color Highlighter",
 		"Emmet",
 		"Javascript Beautify",
 		"Material Theme",
