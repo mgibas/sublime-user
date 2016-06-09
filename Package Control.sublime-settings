@@ -7,10 +7,14 @@
 	[
 		"AutoFileName",
 		"Color Highlighter",
+		"EditorConfig",
 		"Emmet",
 		"Javascript Beautify",
 		"Material Theme",
 		"Package Control",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-contrib-htmlhint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-xmllint"
 	]
 }
