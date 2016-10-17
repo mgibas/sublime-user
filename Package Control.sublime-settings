@@ -13,12 +13,14 @@
 		"FileDiffs",
 		"HTML-CSS-JS Prettify",
 		"Javascript Beautify",
-		"Material Theme",
 		"Package Control",
 		"Polymer & Web Component Snippets",
+		"PowerShell",
+		"Python Pretty Print",
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-jshint",
+		"SublimeLinter-pylint",
 		"SublimeLinter-xmllint"
 	]
 }
