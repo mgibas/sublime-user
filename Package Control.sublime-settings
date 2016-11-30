@@ -13,6 +13,9 @@
 		"FileDiffs",
 		"HTML-CSS-JS Prettify",
 		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JSON Reindent",
+		"LoremGibson",
 		"Package Control",
 		"Polymer & Web Component Snippets",
 		"PowerShell",
@@ -20,6 +23,9 @@
 		"SublimeLinter",
 		"SublimeLinter-contrib-htmlhint",
 		"SublimeLinter-jshint",
-		"SublimeLinter-pylint"
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"SublimeLinter-xmllint"
 	]
 }
