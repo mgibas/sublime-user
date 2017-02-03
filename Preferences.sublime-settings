@@ -21,8 +21,6 @@
 		"draw_normal",
 		"draw_active"
 	],
-	"material_theme_small_statusbar": true,
-	"material_theme_small_tab": true,
 	"overlay_scroll_bars": "enabled",
 	"theme": "Boxy Monokai.sublime-theme",
 	"word_wrap": "false"

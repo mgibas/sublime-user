@@ -1,4 +1,6 @@
+Color Highlighter/
 Package Control.cache
 Package Control.last-run
 *.crt
 *.merged-ca-bundle
+*.tmTheme
