@@ -22,6 +22,7 @@
 		"draw_active"
 	],
 	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
 	"theme": "Boxy Monokai.sublime-theme",
 	"word_wrap": "false"
 }
